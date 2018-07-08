@@ -15,7 +15,7 @@ Neste projeto estamos utilizamos o gerenciador de pacotes [Yarn](https://yarnpkg
 ⚠️ Clonar repositório
 ```
 $ git clone https://github.com/limatheusm/projeto1-imc.git
-$ cd imc
+$ cd projeto1-imc
 ```
 
 👷 Instalar dependências
