@@ -23,6 +23,7 @@
         ]
       }
     ],
+    "react/destructuring-assignment": "off",
     "global-require": "off",
     "no-console": "off",
     "import/prefer-default-export": "off",
